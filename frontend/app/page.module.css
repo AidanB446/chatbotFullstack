@@ -1,0 +1,45 @@
+
+.chatmes {
+	overflow: scroll;
+	scroll-behavior: auto;		
+	scrollbar-width: auto;
+	border-radius: 10px;	
+	border: 1px black solid;	
+	padding: 5px;
+	resize: none;
+	width: 500px;
+	height: 400px;
+	display: block;
+	margin-inline: auto;
+	
+
+}
+
+.userText {
+	border-radius: 5px;
+	border: 2px black solid;	
+	padding: 5px;	
+	display: block;
+	margin-inline: auto;
+}
+
+.subbutton {
+	border: 1px black solid;
+	border-radius: 15px;	
+	padding: 5px;		
+	display: block;
+	margin-inline: auto;
+	background: lightgray;
+
+}
+	
+
+.subbutton:hover {
+	background: white;
+
+}
+
+
+
+
+
